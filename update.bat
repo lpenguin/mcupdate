@@ -1,4 +1,4 @@
-\aria2c.exe ^
+aria2c.exe ^
 --allow-overwrite=true ^
 --auto-file-renaming=false ^
 --remove-control-file=true ^
