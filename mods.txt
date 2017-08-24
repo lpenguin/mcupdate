@@ -1,3 +1,4 @@
 http://jenkins.ic2.player.to/job/IC2_111/lastSuccessfulBuild/artifact/build/libs/industrialcraft-2-2.7.82-ex111.jar
 https://mod-buildcraft.com/releases/BuildCraft/7.99.7/buildcraft-7.99.7.jar
 https://github.com/lpenguin/mcupdate/raw/master/jei_1.11.2-4.5.0.294.jar
+https://github.com/lpenguin/mcupdate/raw/master/journeymap-1.11.2-5.4.7.jar
